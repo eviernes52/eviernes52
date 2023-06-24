@@ -4,7 +4,7 @@ Emiliano Viernes
 Current California State University Northridge Comp Sci Senior
 --------------------------------------------------------------
 
-* 🌊  Los Angeles Native
+* 🌊  Los Angeles, CA
 * 🖥️  More info about me at [Resume](https://github.com/eviernes52/EmilianoViernes--Resume)
 * ✉️  Contact me directly me at [eviernes52@gmail.com](mailto:eviernes52@gmail.com)
 
