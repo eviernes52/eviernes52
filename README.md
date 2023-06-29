@@ -1,7 +1,7 @@
 Emiliano Viernes 
 =================================
 
-Current California State University Northridge Comp Sci Senior
+Current California State University Northridge Computer Science Senior
 --------------------------------------------------------------
 
 * 🌊  Los Angeles, CA
