@@ -36,8 +36,8 @@ Languages:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-<sdasd><div>
+<div>
     <h3>📊 Stats:</h3>
       <br>
-      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviernes52&layout=compact&theme=transparent" /></a> 
+      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviernes52&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> 
   </div>
