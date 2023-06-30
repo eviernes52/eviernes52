@@ -5,8 +5,9 @@ Current California State University Northridge Computer Science Senior
 --------------------------------------------------------------
 
 * 🌊  Los Angeles, CA
-* 🖥️  More info about me at [Resume](https://github.com/eviernes52/EmilianoViernes--Resume)
+* 🖥️  More info about me and my projects at [Resume](https://github.com/eviernes52/EmilianoViernes--Resume)
 * ✉️  Contact me directly me at [eviernes52@gmail.com](mailto:eviernes52@gmail.com)
+* 🔗  Connect with me on [Linkedin](https://www.linkedin.com/in/emiliano-v/)
 
 ### Skills
 
