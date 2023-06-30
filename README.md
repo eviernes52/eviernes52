@@ -38,6 +38,5 @@ Languages:
 
 <div>
     <h3>📊 Stats:</h3>
-      <br>
       <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviernes52&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a> 
   </div>
