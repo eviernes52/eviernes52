@@ -1,4 +1,4 @@
-Emiliano Viernes 
+Emi Viernes 
 =================================
 
 Current California State University Northridge Computer Science Senior
