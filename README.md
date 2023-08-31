@@ -1,8 +1,8 @@
 Emi Viernes 
 =================================
 
-Current California State University Northridge Computer Science Senior
---------------------------------------------------------------
+Currently Studying Computer Science At California State University Northridge
+---------------------------------------------------------------------------
 
 * 🌊  Los Angeles, CA
 * ✉️  Contact me directly me at [eviernes52@gmail.com](mailto:eviernes52@gmail.com)
