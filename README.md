@@ -37,8 +37,3 @@ Languages:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
-<div>
-    <h3>📊 Stats:</h3>
-      <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviernes52&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a> 
-  </div>
